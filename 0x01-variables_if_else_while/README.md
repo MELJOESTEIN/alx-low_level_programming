@@ -1,6 +1,6 @@
 # Variables, if, else and while
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**.
+Project done during **Full Stack Software Engineering studies** at **Alx Africa**. It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**.
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
