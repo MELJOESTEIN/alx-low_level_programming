@@ -13,19 +13,22 @@ All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-positive_or_negative.c` | Prints `is positive`, `is zero` or `is negative` when a randomly generated number is any of these cases |
-| `1-last_digit.c` | Prints the last digit of a randomly generated number |
-| `2-print_alphabet.c` | Prints the alphabet in lowercase |
-| `3-print_alphabets.c` | Prints the alphabet in lowercase, and then in uppercase |
-| `4-print_alphabet.c` | Prints the alphabet in lowercase, except `q` and `e` letters |
-| `5-print_numbers.c` | Prints all single digit numbers of base 10 starting from `0` |
-| `6-print_numberz.c` | Prints all single digit numbers of base 10 starting from `0`, without using `char` variables |
-| `7-print_tebahpla.c` | Prints the lowercase alphabet in reverse |
-| `8-print_base16.c` | Prints all the numbers of base 16 in lowercase |
-| `9-print_comb.c` | Prints all possible combinations of single-digit numbers |
-| `10-print_comb2.c` | Prints the numbers from 00 to 99 |
-| `100-print_comb3.c` | Prints all possible different combinations of two digits, separated by `,` |
-| `101-print_comb4.c` | Prints all possible different combinations of three digits, separated by `,` |
-| `102-print_comb5.c` | Prints all possible combinations of two two-digit numbers |
+| `0-putchar.c` | Prints `_putchar` |
+| `1-alphabet.c` | Prints the alphabet in lowercase |
+| `2-print_alphabet_x10.c` | Prints 10 times the alphabet, in lowercase |
+| `3-islower.c` | Checks for lowercase character |
+| `4-isalpha.c` | Checks for alphabetic character |
+| `5-sign.c` | Prints the sign of a number |
+| `6-abs.c` | Computes the absolute value of an integer |
+| `7-print_last_digit.c` | Prints the last digit of a number |
+| `8-24_hours.c` | Prints every minute of the day |
+| `9-times_table.c` | Prints the 9 times table, starting with 0 |
+| `10-add.c` | Adds two integers and returns the result |
+| `11-print_to_98.c` | Prints all natural numbers from `n` to `98` |
+| `100-times_table.c` | Prints the `n` times table, starting with 0 |
+| `101-natural.c` | Computes and prints the sum of all the multiplies of `3` or `5` below `1024` |
+| `102-fibonacci.c` | Prints the first 50 Fibonacci numbers, starting with `1` and `2` |
+| `103-fibonacci.c` | Finds and prints the sum of the even-valued terms |
+| `104-fibonacci.c` | Finds and prints the first 98 Fibonacci numbers |
 
 
