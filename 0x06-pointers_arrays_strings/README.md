@@ -1,6 +1,7 @@
-# Pointers, arrays and strings
+# More pointers, arrays and strings
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about pointers and arrays in **C language**.
+Project done during **FullStack Software Engineering studies** at **[Alx Africa](https://www.alxafrica.com/)**. It aims to learn about pointers and arrays in **C language**.
+
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
@@ -13,16 +14,16 @@ All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-reset_to_98.c` | Takes a pointer to an `int` as parameter and updates the value it points to `98` |
-| `1-swap.c` | Swaps the values of two integers |
-| `2-strlen.c` | Returns the length of a string |
-| `3-puts.c` | Prints a string to `stdout` |
-| `4-print_rev.c` | Prints a string, in reverse |
-| `5-rev_string.c` | Reverses a string |
-| `6-puts2.c` | Prints every other character of a string, starting with the first character |
-| `7-puts_half.c` | Prints half of a string |
-| `8-print_array.c` | Prints `n` elements of an array of integers |
-| `9-strcpy.c` | Copies the string pointed to by `src`, including the terminating null byte, to the buffer pointed to by `dest` |
-| `100-atoi.c` | Converts a string to an integer |
-| `101-keygen.c` | Generates random valid passwords for the program `101-crackme` |
-
+| `0-strcat.c` | Concatenates two strings |
+| `1-strncat.c` | Concatenates two strings, using `n` bytes from `src` |
+| `2-strncpy.c` | Copies a string |
+| `3-strcmp.c` | Compares two strings |
+| `4-rev_array.c` | Reverses the content of an array of integers |
+| `5-string_toupper.c` | Changes all lowercase letters of a string to uppercase |
+| `6-cap_string.c` | Capitalizes all words of a string |
+| `7-leet.c` | Encodes a string into 1337 |
+| `8-rot13.c` | Encodes a string using rot13 |
+| `100-print_number.c` | Prints an integer |
+| `101-magic.c` | Changes the value of an index of an integer array |
+| `102-infinite_add.c` | Adds two numbers |
+| `103-print_buffer.c` | Prints a buffer |
